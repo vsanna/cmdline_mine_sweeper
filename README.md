@@ -1,5 +1,7 @@
 This is very normal command line minecraft game.
 
+![sample](./docs/sample.gif)
+
 ## prerequisites
 - install jvm(11+)
 - clone this repo
